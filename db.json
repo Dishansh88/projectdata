@@ -1,0 +1,37 @@
+{
+  "prod": [
+    {
+      "id": "1",
+      "name": "Anti hairfall Shampoo",
+      "image": "./img/product-1.png",
+      "price": 99.99,
+      "stock": 2,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Anti Bacteria shampoo",
+      "image": "./img/product-1.png",
+      "price": 99.99,
+      "stock": 5,
+      "qty": 5
+    },
+    {
+      "id": "3",
+      "name": "Nouristment Scalp Shampoo",
+      "image": "./img/product-2.png",
+      "price": 99.99,
+      "stock": 2,
+      "qty": 3
+    },
+    {
+      "id": "4",
+      "name": "Anti Dandruff Shampoo",
+      "image": "./img/product-1.png",
+      "price": 99.99,
+      "stock": 9,
+      "qty": 7
+    }
+  ],
+  "cart": []
+}
